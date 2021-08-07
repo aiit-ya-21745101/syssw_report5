@@ -1,0 +1,4 @@
+language: bash
+script:
+  - echo running test
+  - ./find_gcd_test.sh
